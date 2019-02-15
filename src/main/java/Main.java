@@ -36,8 +36,8 @@ import java.util.NoSuchElementException;
 				System.out.println(accStr);
 
 				System.out.println("Algorithm Codes :\n"
-						+ "0 (Power Set 1) \t 1 (Power Set  2) \t 2 (Power Set  3)\n");
-				System.out.println("Enter selected algorithm code :");
+						+ "0 (Power Set 1) \t 1 (Power Set  2) \t 2 (Power Set  3)\n\n"
+						+ "Enter selected algorithm code :");
 				choice = br.readLine();
 
 			}
