@@ -1,10 +1,11 @@
 package main.java;
 
 public final class Item {
-        public int key;
         //constructor
         public Item(int keyValue) { 
-                key = keyValue;
+                _key = keyValue;
         }
         // further components and methods
+        
+        private int _key;
 }
